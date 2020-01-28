@@ -1,2 +1,1 @@
-__Holberton school zero day__
-
+__ holbertonschool-zero_day__
